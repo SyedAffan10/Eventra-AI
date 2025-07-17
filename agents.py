@@ -33,7 +33,7 @@ load_dotenv()
 if not os.environ.get("GOOGLE_API_KEY"):
     os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API_KEY")
 llm = ChatGoogleGenerativeAI(
-    model="gemini-2.5-flash-preview-04-17", # Gemma 3 , gemini-2.5-pro-exp-03-25
+    model="gemini-2.5-flash",
     temperature=0,
     max_tokens=None,
     timeout=None,
