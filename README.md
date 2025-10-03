@@ -44,28 +44,28 @@ EventraAI employs a sophisticated 7-layer architecture:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    LEVEL 1: ORCHESTRATION                  │
+│                    LEVEL 1: ORCHESTRATION                   │
 ├─────────────────────────────────────────────────────────────┤
-│               LEVEL 2: DATA PROCESSING & DETECTION         │
-│  • Data Collection Agent    • Detection Agent              │
+│               LEVEL 2: DATA PROCESSING & DETECTION          │
+│  • Data Collection Agent    • Detection Agent               │
 ├─────────────────────────────────────────────────────────────┤
-│            LEVEL 3: CONTEXTUAL ENRICHMENT & INVESTIGATION  │
-│  • Investigation Agent      • Threat Intelligence Agent    │
-│  • Context Agent           • Correlation Agent             │
+│            LEVEL 3: CONTEXTUAL ENRICHMENT & INVESTIGATION   │
+│  • Investigation Agent      • Threat Intelligence Agent     │
+│  • Context Agent            • Correlation Agent             │
 ├─────────────────────────────────────────────────────────────┤
-│                LEVEL 4: VALIDATION & EXPLANATION           │
-│  • Fact-Checker Agent     • Explainability Agent          │
+│                LEVEL 4: VALIDATION & EXPLANATION            │
+│  • Fact-Checker Agent     • Explainability Agent            │
 ├─────────────────────────────────────────────────────────────┤
-│                  LEVEL 5: DECISION & RESPONSE              │
-│  • Remediation Strategy    • Response Orchestration        │
-│  • Human Feedback         • Execution Agent                │
+│                 LEVEL 5: DECISION & RESPONSE                │
+│  • Remediation Strategy    • Response Orchestration         │
+│  • Human Feedback          • Execution Agent                │
 ├─────────────────────────────────────────────────────────────┤
-│                LEVEL 6: MONITORING & FEEDBACK              │
-│  • Trust Calibration      • Simulation Training            │
-│  • Behavioral Memory      • One-Click Rollback             │
+│                 LEVEL 6: MONITORING & FEEDBACK              │
+│  • Trust Calibration       • Simulation Training            │
+│  • Behavioral Memory       • One-Click Rollback             │
 ├─────────────────────────────────────────────────────────────┤
-│                LEVEL 7: SUPPORT & MANAGEMENT               │
-│  • Analyst Copilot        • Case Summary                   │
+│                 LEVEL 7: SUPPORT & MANAGEMENT               │
+│  • Analyst Copilot         • Case Summary                   │
 │  • Conversation Summary                                     │
 └─────────────────────────────────────────────────────────────┘
 ```
